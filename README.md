@@ -379,7 +379,7 @@ No internet connection is required to use the application.
 Clone the repository:
 
 ```bash
-git clone <YOUR-GITHUB-REPOSITORY-URL>
+git clone https://github.com/neurus0/LocalSearch
 ```
 
 Enter the project directory:
