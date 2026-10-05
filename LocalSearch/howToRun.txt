@@ -1,0 +1,3 @@
+In powershell/cmd/terminal
+inside the folder "C:\Users\rajde\OneDrive\Desktop\RAJDEEEP MAITY\projects\LocalSearch\LocalSearch"
+run "java -jar .\target\LocalSearch.jar"
